@@ -43,8 +43,6 @@ key_full_template_trial = key_part_static1_trial + key_part_dynamic1_trial + key
 print(key_full_template_trial)
 ```
 
-![Screenshot 2024-11-05 at 10 06 12 PM](https://github.com/user-attachments/assets/3a18f16a-df54-4fcf-9ef4-c585bf520a53)
-
 ### Flag
 `picoCTF{1n_7h3_|<3y_of_xxxxxxxx}`
 
