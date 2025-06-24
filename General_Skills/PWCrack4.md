@@ -25,7 +25,5 @@ Again, create a new file with the passwords.  Use a for loop, and, this time, gr
 for i in `cat pw_list.txt`; do echo $i | python3 level4.py | grep "picoCTF"; done
 ```
 
-![Screenshot 2024-11-03 at 2 14 12 PM](https://github.com/user-attachments/assets/49805406-cdd7-430e-8bb8-489e4ba966e3)
-
 ### Flag
 `picoCTF{f...}`
