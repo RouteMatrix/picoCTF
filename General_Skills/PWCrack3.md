@@ -39,7 +39,5 @@ Now use a `for` loop to check each password.
 for i in $(cat pw_list.txt); do echo $i | python3 level3.py; done
 ```
 
-![Screenshot 2024-11-03 at 1 54 16 PM](https://github.com/user-attachments/assets/126e8f11-4e1b-4e65-bf4d-a6e7ee548098)
-
 ### Flag
 `picoCTF{m...f}`
