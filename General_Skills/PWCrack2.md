@@ -39,7 +39,5 @@ python3 -c 'print(chr(0x64) + chr(0x65) + chr(0x37) + chr(0x36))'
 
 Execute the Python script and enter the password.
 
-![Screenshot 2024-11-03 at 12 49 40 PM](https://github.com/user-attachments/assets/b7c5d49f-98b3-4ee1-a3e7-1f7558129795)
-
 ### Flag
 `picoCTF{t...a}`
