@@ -15,7 +15,5 @@ Like PW Crack 4, we have the same program structure but this time we have a dict
 for i in `cat dictionary.txt`; do echo $i | python3 level5.py | grep "picoCTF" && break; done
 ```
 
-![Screenshot 2024-11-03 at 2 33 28 PM](https://github.com/user-attachments/assets/5121627b-7620-4ca7-8516-d2eb4af1f756)
-
 ### Flag
 `picoCTF{h...3}`
