@@ -8,7 +8,5 @@ Author: LT 'syreal' Jones
 ## Solution
 Download the file and unzip it.  Next use `find` for the 'uber-secret.txt' file: `find . -name "uber-secret.txt"`.
 
-<img width="630" alt="Screenshot 2024-11-03 at 9 29 27 PM" src="https://github.com/user-attachments/assets/11e78d6e-f294-4d35-a1c9-02346c613aee">
-
 ### Flag
 `picoCTF{f...}`
