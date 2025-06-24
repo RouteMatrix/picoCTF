@@ -22,7 +22,5 @@ def level_1_pw_check():
 ...
 ```
 
-![Screenshot 2024-11-03 at 12 11 00 PM](https://github.com/user-attachments/assets/23d2628c-d2e0-4939-bc05-d36f9e4860b8)
-
 ### Flag
 `picoCTF{5...}`
