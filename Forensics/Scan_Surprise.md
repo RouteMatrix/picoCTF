@@ -13,6 +13,7 @@ After downloading and expanding the Zip file we have a PNG file.  Once the file 
 
 Install:\
 `sudo apt install zbar-tools`
+
 Get the Flag:\
 `zbarimg flag.png`
 ### Command List
